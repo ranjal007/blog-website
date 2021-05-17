@@ -1,0 +1,15 @@
+.divstyle{
+    height:100vh;
+    background-color:#ffffff;
+
+}
+.innerdiv{
+    background-image: url("./banner.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
